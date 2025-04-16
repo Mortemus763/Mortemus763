@@ -1,6 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=29903B&width=500&lines=Hello+there!;I'm+Mark!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-- 🌱 I’m currently learning Full Stack Development @ App Academy
-  
+- 🌱 I’m a graduate of Full Stack Development @ App Academy
+
+## 🔧 Projects
+🔹 [TarantulaTracker](https://tarantulatracker.onrender.com) – Tarantula collection manager   
+🔹 [Noteworthy](https://noteworthy-1.onrender.com) – Note-taking app with real-time sync     
+🔹 [CretaceousCribs](https://cretaceouscribs.onrender.com) – Airbnb clone for dinosaurs   
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mark-sabangan-6a29b9205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://mortemus763.github.io/Mortem763.github.io/) | [Email](mailto:marksabangan1217@gmail.com) 
+## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
